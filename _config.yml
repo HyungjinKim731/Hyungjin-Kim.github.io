@@ -21,7 +21,9 @@ defaults:
       type: category
     values:
       layout: "category"
-      
+
+theme: jekyll-theme-simplex
+
 logo_img: /assets/img/icons/golasblog_logo.svg #Absolute path to the logo. If not specified, the title will be displayed instead.
 copyright: © Golasowski 2020 #Your copyright.
 
